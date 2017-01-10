@@ -1,6 +1,6 @@
 {
     "name": "snowfire/beautymail",
-    "description": "Send beautiful html emails with Laravel",
+    "description": "Send beautiful html emails with Laravel (hzung-master)",
 	"keywords": ["laravel", "html", "email"],
     "license": "MIT",
     "authors": [
