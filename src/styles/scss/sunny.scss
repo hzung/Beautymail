@@ -189,7 +189,9 @@ h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visit
 
 /* Preferably not the same color as the normal header link color. There is limited support for psuedo classes in email clients, this was added just for good measure. */
 table td, table tr {
-	border-collapse: collapse; }
+	height:  35px;
+	border-collapse: collapse; 
+}
 
 .yshortcuts {
 	color: black;
